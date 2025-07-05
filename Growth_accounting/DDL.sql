@@ -1,0 +1,11 @@
+-- create table growth_accounting(
+-- 			user_id text,
+-- 			first_active date,
+-- 			last_active date,
+-- 			daily_active_state text,
+-- 			weekly_active_state text,
+-- 			dates_active date[],
+-- 			date date,
+-- 			primary key(user_id,date)
+			
+-- )
