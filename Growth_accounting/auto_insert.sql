@@ -81,5 +81,5 @@ select user_id,
 							) AS date_active, 
 			 date
 		 from prev
-where user_id='137925124111668560'
+
 
